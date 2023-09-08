@@ -2,7 +2,7 @@
 <p align="center">InfoHubLists provides you with organized and responsive lists with the information you need, made with HTML and CSS</p>
 
 <div align="center">
-   <img src="/InfoHubLists.png" alt="template">
+   <img src="/InfoHubLists.png" alt="InfoHubLists">
 </div>
 
 <h2 align="center">Notes: </h2>
