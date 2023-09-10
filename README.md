@@ -1,5 +1,5 @@
 <h1 align="center">InfoHubLists</h1>
-<p align="center">InfoHubLists provides you with organized and responsive lists with the information you need, made with HTML and CSS</p>
+<p align="center">InfoHubLists provides you with organized and responsive lists with the information you want, made with HTML and CSS</p>
 
 <div align="center">
    <img src="/InfoHubLists.png" alt="InfoHubLists">
